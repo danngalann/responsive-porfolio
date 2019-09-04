@@ -1,0 +1,11 @@
+{
+  "name": "responsive-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass/main.scss dist/css/main.css"
+  },
+  "author": "Daniel Galán",
+  "license": "MIT"
+}
