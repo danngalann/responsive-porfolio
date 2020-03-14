@@ -1,5 +1,5 @@
 # Responsive Porfolio
-A simple responsive portfolio made for practice purposes. Made with the help of [Brad Traversy](https://github.com/bradtraversy)'s [tutorial](https://www.youtube.com/playlist?list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU).
+A simple responsive portfolio made for practice purposes. Made with the help of [Brad Traversy](https://github.com/bradtraversy)'s [tutorial](https://www.youtube.com/playlist?list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU). A demo can be found [here](https://responsive-portfolio.neocities.org/)
 
 ![screenshot](dist/img/screenshot.png "Screenshot")
 
